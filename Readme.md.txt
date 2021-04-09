@@ -1,0 +1,1 @@
+In this repository I am going to share my solved problems in Hacker Rank
